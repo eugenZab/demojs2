@@ -1,0 +1,22 @@
+{
+  "name": "demojs2",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "example1": "node simple_example_1.js",
+    "example2": "node simple_example_2_undefined.js",
+    "example3": "node simple_example_3_callback.js",
+    "example4": "node simple_example_4_callback_hell.js",
+    "run": "node run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenZab/demojs2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/eugenZab/demojs2#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

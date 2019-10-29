@@ -1,0 +1,38 @@
+[
+  {
+    "car": "ToyotaPrado",
+    "owner": "JosephSalas",
+    "rego": "CAB517",
+    "parkingId": "P1"
+  },
+  {
+    "car": "HondaFit",
+    "owner": "ChantaleHale",
+    "rego": "CDF679",
+    "parkingId": "P2"
+  },
+  {
+    "car": "NissanTiida",
+    "owner": "FarrahHickman",
+    "rego": "SDW618",
+    "parkingId": "P3"
+  },
+  {
+    "car": "ToyotaCorolla",
+    "owner": "CullenSalas",
+    "rego": "PEN826",
+    "parkingId": "P4"
+  },
+  {
+    "car": "BMW320",
+    "owner": "SladeLong",
+    "rego": "JEW711",
+    "parkingId": "P5"
+  },
+  {
+    "car": "NissanX-Trail",
+    "owner": "GiselaCros",
+    "rego": "MSO748",
+    "parkingId": "P6"
+  }
+]
