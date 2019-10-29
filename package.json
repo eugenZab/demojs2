@@ -17,6 +17,7 @@
   "license": "ISC",
   "homepage": "https://github.com/eugenZab/demojs2#readme",
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.15"
   }
 }
