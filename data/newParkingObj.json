@@ -1,0 +1,38 @@
+[
+    {
+        "car": "NissanTiida",
+        "owner": "FarrahHickman",
+        "rego": "SDW618",
+        "parkingId": "P3"
+    },
+    {
+        "car": "ToyotaCorolla",
+        "owner": "CullenSalas",
+        "rego": "PEN826",
+        "parkingId": "P4"
+    },
+    {
+        "car": "BMW320",
+        "owner": "SladeLong",
+        "rego": "JEW711",
+        "parkingId": "P5"
+    },
+    {
+        "car": "NissanX-Trail",
+        "owner": "GiselaCros",
+        "rego": "MSO748",
+        "parkingId": "P6"
+    },
+    {
+        "car": "New Car P8",
+        "owner": "Nick Jognson",
+        "rego": "MJD183",
+        "parkingId": "P8"
+    },
+    {
+        "car": "Toyota Prado",
+        "owner": "Daisy Jognson",
+        "rego": "MJD982",
+        "parkingId": "P9"
+    }
+]

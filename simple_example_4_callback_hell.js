@@ -3,6 +3,7 @@ let getUser = function (done1) {
         done1({user: "TestUser", email: "testuser@invenco.com"});
     }, 1000);
 };
+
 let getAddress = function (user, done) {
     setTimeout(() => {
         if (user.email === 'testuser@invenco.com') {
@@ -12,6 +13,7 @@ let getAddress = function (user, done) {
         }
     }, 4000);
 };
+
 let getDOB = function (user, done) {
     setTimeout(() => {
         if (user.email === 'testuser@invenco.com') {
