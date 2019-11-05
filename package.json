@@ -7,7 +7,8 @@
     "example2": "node simple_example_2_undefined.js",
     "example3": "node simple_example_3_callback.js",
     "example4": "node simple_example_4_callback_hell.js",
-    "run": "node run"
+    "run": "node run",
+    "calculate": "node calculate.js"
   },
   "repository": {
     "type": "git",
